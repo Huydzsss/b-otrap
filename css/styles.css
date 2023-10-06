@@ -11211,6 +11211,5 @@ body {
   color: red;
 }
 .symmetrical-image {
-  height: 400px; 
-  object-fit: cover; 
+  height: 330px;
 }
